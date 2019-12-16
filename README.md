@@ -1,7 +1,6 @@
 # Data-Communication-Project
 This is the final Project for my Data Communication class
 
-
 Server:
 Server can be ran from the standalone Executable file included. If you desire to change the server, open the included 
 Visual Basic Solution baned Server in Visual basic, then build it once you change what you want to change.
